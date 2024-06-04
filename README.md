@@ -3,13 +3,15 @@
 
 <h3 align="left">CSS Art: June</h3>
 
+<p>
 Draw what comes to mind for you when it comes to the month of June. Depending on where you live, perhaps that’s the summer solstice or a transition to falling leaves and winter. Or maybe it is Father’s Day or Pride Month.
-
+</p>
 Whatever comes to mind when you think of June, please show us!
 
+<p>
 How to submit
 All CSS Art submissions should, at minimum, explain what you are creating, how you approached the project, and the code you crafted either shared as a public link or directly embedded in your post.
-
+</p>
 
 
 
